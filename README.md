@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at Miebach as a Supply Chain Projects Engineer.
 - 🌱 I’m currently pursuing a master's degree in data science at Universidad de Buenos Aires
-- 😄 Pronouns: He/Him
 
 
 <!--
