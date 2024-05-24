@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working at Miebach as a Supply Chain Projects Engineer.
+- 🌱 I’m currently pursuing a master's degree in data science at Universidad de Buenos Aires
+- 😄 Pronouns: He/Him
+
+
 <!--
 **nicolasgirado/nicolasgirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
