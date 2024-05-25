@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at Miebach as a Supply Chain Projects Engineer.
+- 🔭 I’m currently working at Miebach as a Supply Chain Consultant.
 - 🌱 I’m currently pursuing a master's degree in data science at Universidad de Buenos Aires.
 - Interested in understanding the foundations of AI.
 
